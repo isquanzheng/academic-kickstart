@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: First-year PhD Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,22 +21,23 @@ organizations:
 bio: My research interests include cyberpsychology, cognitive psychology, and educational data mining.
 
 interests:
-- Artificial Intelligence
 - Big Data
 - Educational Data Mining
+- Artificial Intelligence
+- Natural Language Processing
 - Python
 - R
-- Natural Language Processing
+
 
 education:
   courses:
-  - course: PhD in Cognitive Psychology
+  - course: Cognitive Psychology, PhD Student
     institution: Central China Normal University
     year: 2019
-  - course: MS in Developmental and Educational Psychology
+  - course: Developmental and Educational Psychology, MS
     institution: Sichuan Normal University
     year: 2018
-  - course: BS in Applied Psychology
+  - course: Applied Psychology, BS
     institution: Yangtze Normal University
     year: 2011
 
@@ -47,8 +48,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:iszhengquan@gmail.com
-- icon: twitter
+  link: mailto:isquanzheng@gmail.com
+- icon: weixin
   icon_pack: fab
   link: #https://twitter.com/GeorgeCushen
 - icon: google-scholar
@@ -73,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Quan Zheng is a first-year Ph.D. student at Central China Normal University. His research interests include cyberpsychology, cognitive psychology, and educational data mining.
+Quan Zheng is a Ph.D. student at Central China Normal University. His research interests include cyberpsychology, cognitive psychology, and educational data mining.
