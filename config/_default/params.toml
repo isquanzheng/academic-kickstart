@@ -58,7 +58,7 @@ edit_page = {repo_url = "", repo_branch = "master", editable = {docs = true, pag
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Sep 2, 2019"
+date_format = "2019-09-17"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "8:40 PM"
 
